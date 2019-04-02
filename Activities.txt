@@ -1,0 +1,108 @@
+Weight Lifting :	140
+Aerobics :	120
+Stretching : 120
+Calisthenics :	135
+Stair Step Machine :	180
+Stationary Rowing : 	210
+Circuit Training :	240
+Elliptical :	270
+Billiards :	75
+Bowling :	90
+Dancing :	90
+Frisbee	: 90
+Volleyball : 90
+Water Volleyball :	90
+Archery : 	105
+Golf :	105
+Hang Gliding :	105
+Curling :	120
+Gymnastics :	120
+Horseback Riding :	120
+Tai Chi :	120
+Badminton :	135
+Walking :  135
+Kayaking :	150
+Skateboarding :	150
+Snorkeling :	150
+Softball : 	150
+Whitewate rafting :	150
+Dancing :	165
+Golf :	165
+Fencing :	180
+Hiking :	180
+Skiing :	180
+Jogging : 180
+Water Skiing :	180
+Wrestling :	180
+Ice Skating : 210
+Racquetball : 210
+Rollerblade Skating :	210
+Scuba diving : 	210
+Sledding :	210
+Soccer :	210
+Tennis : 	210
+Basketball :	240
+Hockey :	240
+Rock Climbing : 	240
+Cross-Country Skiing : 	240
+Snow Shoeing : 	240
+Swimming : 	255
+BMX : 	255
+Boxing : 270
+Football : 270
+Orienteering :	270
+Bicycling : 	300
+Martial Arts : 	300
+Rope Jumping :	300
+Running : 	300
+Water Polo :	300
+Handball :	360		
+Planting seeds :	120
+Raking Lawn :	120
+Operate Snow Blower : 80
+Plant trees :	135
+Gardening :	139
+Carrying wood :	150
+Digging :	150
+Laying sod :	150
+Mowing Lawn : 165
+Chopping wood :	180
+Shoveling Snow :	180			
+Sleeping :	19
+Watching TV :	23
+Reading : 34
+Standing in line :	38
+Cooking :	75
+Shopping : 105
+Heavy Cleaning : 135
+Child games : 150
+Moving :	210			
+Auto Repair :	90
+Plumbing :	90
+Cleaning rain gutters :	150
+Hanging storm windows :	150
+Paint house :	150
+Carpentry :	180
+Roofing :	180	
+Computer Work :	41
+Light Office Work :	45
+Sitting in Meetings :	49
+Desk Work :	53
+Sitting in Class :	53
+Truck Driving :	60
+Server :	75
+Heavy Equipment Operator :	75
+Police Officer :	75
+Theater Work :	90
+Welding :	90
+Carpentry Work :	105
+Coaching Sports :	120
+Masseur :	120
+Construction :	165
+Coal Mining :	180
+Horse Grooming :	180
+Masonry :	210
+Forestry :	240
+Heavy Tools :	240
+Steel Mill : 240
+Firefighting :	360

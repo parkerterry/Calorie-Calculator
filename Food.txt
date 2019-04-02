@@ -1,0 +1,803 @@
+1% Milk	:	102.48
+100% Fruit Juice Blend	:	69.96
+100% Whole Wheat Bread	:	56.58
+2% Milk	:	122
+Alfredo Sauce	:	249.075
+All-Bran	:	156
+All-Fruit Preserves	:	36.6
+Almonds	:	203.745
+Ambrosia	:	50
+American Cheese	:	58.8
+Anchovy	:	94.5
+Angel Food Cake	:	143.07
+Animal Cracker	:	11.15
+Apple	:	55.12
+Apple Chips	:	101.2
+Apple Cider	:	116.56
+Apple Crisp	:	192
+Apple Jacks	:	105.3
+Apple Juice	:	116.56
+Apple Pie	:	363
+Applesauce	:	85.88
+Apricot	:	90.885
+Artichoke	:	60
+Au Gratin Potatoes	:	153.72
+Avocado	:	60
+Bacon	:	64.92
+Bacon Cheeseburger	:	745.92
+Bacon Grease	:	107.648
+Bagel	:	71.5
+Baked Apple	:	162.45
+Baked Battered Fish Fillet	:	154.224
+Baked Beans	:	118.11
+Baked Chicken Drumstick	:	75.24
+Baked Chicken Thigh	:	107.64
+Baked Fish	:	142.884
+Baked Potato	:	159.16
+Baked Pringles	:	107.87
+Banana	:	66.75
+Banana Chips	:	66.06
+Banana Muffin	:	294.93
+Barbeque Sauce	:	6.975
+Barley	:	98.82
+Bbq Short Ribs	:	147.7
+Bbq Spareribs	:	161.2
+Bean And Cheese Burrito	:	518.76
+Bean Burrito	:	295.36
+Bean Enchilada	:	179.36
+Bean Salad	:	57
+Bean Soup	:	136.62
+Bean Sprouts	:	15.6
+Bean Taco	:	143.44
+Beef	:	228.81
+Beef And Bean Burrito	:	330.86
+Beef And Bean Nachos	:	566.28
+Beef And Bean Nachos	:	251.68
+Beef And Cheese Burrito	:	689.04
+Beef And Cheese Enchilada	:	213.15
+Beef Brisket	:	144.9
+Beef Broth	:	16.8
+Beef Burrito	:	296.64
+Beef Chimachanga	:	337.48
+Beef Curry	:	215.94
+Beef Fajitas	:	396.94
+Beef Gravy	:	30.8725
+Beef Jerky	:	92.25
+Beef Sirloin	:	274.56
+Beef Sloppy Joe	:	185.74
+Beef Soft Taco	:	262.2
+Beef Stew	:	199.08
+Beef Stroganoff	:	343.04
+Beef Taco	:	172.64
+"Beef, Bean, And Cheese Burrito"	:	615.42
+Beer	:	196.8
+Biscotti	:	144.96
+Black Olives	:	24.15
+Blackeye Peas	:	79.2
+Bloody Mary	:	199.2
+Blue Cheese Dressing	:	77.112
+Blueberries	:	41.325
+Blueberry Pancakes	:	304
+Boiled Okra	:	11.66
+Boiled Potatoes	:	106.25
+Bologna	:	85.96
+Bran Flakes	:	144
+Bran Muffin	:	194.7
+Bran Waffle	:	109.15
+Brandy	:	128.436
+Bratwurst	:	281.35
+Brazil Nuts	:	229.6
+Bread Stick	:	20.6
+Bread Stuffing	:	200.64
+Breaded Fried Mushrooms	:	17.68
+Breaded Fried Steak	:	600.6
+Breaded Fried Summer Squash	:	184.8
+Breaded Fried Vegetable Sticks	:	28.7
+Breaded Pork Chop	:	359.478
+Breakfast Bar	:	139.49
+Breakfast Sausage	:	51.48
+Broccoli	:	12.07
+Broccoli Cheese Soup	:	164.91
+Broccoli-Rice Casserole	:	143.64
+Broiled Veal Chop	:	197.8
+Brown Rice	:	107.25
+Brown Sugar	:	17.342
+Brownie	:	128.86
+Buffalo Wing	:	73.44
+Bulgur	:	56
+Butter	:	101.814
+Buttered Popcorn	:	72.94
+Butterfinger	:	99.96
+Buttermilk	:	97.92
+Buttermilk Biscuit	:	127.4
+Butterscotch	:	62.964
+Cabbage	:	13.795
+Caesar Salad	:	168.48
+Cake Doughnut	:	105.25
+Calorie-Free Sweetener	:	1.408
+Canadian Bacon	:	51.8
+Candied Sweet Potato	:	146.02
+Canned Tuna	:	96.86
+Cantaloupe	:	30.09
+Cap'N Crunch	:	144.36
+Cappuccino	:	120.45
+Caramel Candy	:	26.74
+Caramel Corn	:	150.85
+Carrot Cake	:	244.8
+Carrot Juice	:	94.4
+Carrot Salad	:	208.25
+Carrots	:	25.01
+Cashews	:	164.7135
+Cassava	:	106.26
+Cassava Bread	:	299
+Cassava With Creole Sauce	:	308.2
+Catfish	:	208.656
+Cauliflower	:	12.5
+Celery	:	8.4
+Cheddar Cheese	:	113.8475
+Cheerios	:	77.49
+Cheese Bread	:	70.98
+Cheese Cracker	:	66.6475
+Cheese Danish Pastry	:	205.7
+Cheese Enchilada	:	226.44
+Cheese Nachos	:	258.1
+Cheese Pizza	:	210.21
+Cheese Quesadilla	:	498.42
+Cheese Ravioli	:	185.2
+Cheese Sauce	:	109.35
+Cheese Tortellini	:	113.28
+Cheeseburger	:	316.72
+Cheesecake	:	182.4
+Chef Salad	:	71.44
+Chewing Gum	:	9.88
+Chex	:	143.13
+Chicken & Cheese Quesadilla	:	563.04
+Chicken And Dumplings	:	184.22
+Chicken Cacciatore	:	238.75
+Chicken Chimichanga	:	631.35
+Chicken Chow Mein	:	275
+Chicken Cordon Bleu	:	501.51
+Chicken Curry	:	146.32
+Chicken Enchilada	:	202.86
+Chicken Fajitas	:	361.26
+Chicken Fettuccine	:	265.1
+Chicken Gravy	:	47.005
+Chicken Gumbo Soup	:	56.12
+Chicken Liver Pate	:	56.9835
+Chicken Nachos	:	543.32
+Chicken Noodle Soup	:	74.71
+Chicken Nuggets	:	216.72
+Chicken Parmigiana	:	283.02
+Chicken Patty	:	261.36
+Chicken Rice Soup	:	60.25
+Chicken Salad	:	208.39
+Chicken Salad Spread	:	208
+Chicken Sandwich	:	265.44
+Chicken Soft Taco	:	250.88
+Chicken Teriyaki	:	181.78
+Chicken Vegetable Soup	:	136.23
+Chickpeas	:	147.6
+Chiles Rellenos	:	364.65
+Chives	:	0.9
+Chocolate Cake	:	405.48
+Chocolate Chip Cookie	:	48.1
+Chocolate Chip Muffin	:	212.52
+Chocolate Chips	:	47.9
+Chocolate Cream Pie	:	380.16
+Chocolate Cupcake	:	150.4
+Chocolate Doughnut	:	89.01
+Chocolate Fudge Cookie	:	108.25
+Chocolate Icing	:	67.252
+Chocolate Milk	:	157.5
+Chocolate Sauce 	:	209.25
+Chocolate Wafer	:	51.96
+Chocolate-Covered Almonds	:	17.01
+Chocolate-Covered Candy	:	73.2
+Chocolate-Covered Granola Bar	:	157.08
+Chopped Chicken Liver	:	117.52
+Chow Fun Rice Noodles	:	171.2
+Chunky Beef Vegetable Soup	:	170.4
+Cilantro	:	0.253
+Cinnamon Toast	:	69.16
+Cinnamon Toast Crunch	:	139.26
+Club Sandwich	:	546.12
+Club Soda	:	0
+Cocktail Sauce	:	54.6
+Cocoa Puffs	:	117
+Coconut Candy	:	97.2
+Coconut Milk	:	138
+Cod	:	138.348
+Coffee	:	7.08
+Coffee Cake	:	159.8
+Coffee Cake	:	94.05
+Coffee Mate	:	40.8
+Coleslaw	:	131.4
+Cooked Asparagus	:	20.9
+Cooked Bean Sprouts	:	29.14
+Cooked Beets	:	35.86
+Cooked Broccoli	:	16.975
+Cooked Brussels Sprouts	:	8.82
+Cooked Cabbage	:	16.5
+Cooked Carrots	:	26.075
+Cooked Cauliflower	:	5.06
+Cooked Eggplant	:	18.9
+Cooked Green Beans	:	13.5
+Cooked Green Peas	:	66.4
+Cooked Hot Peppers	:	3.57
+Cooked Mixed Vegetables	:	59.15
+Cooked Mushrooms	:	4.48
+Cooked Mushrooms	:	11.2
+Cooked Onions	:	5.28
+Cooked Snowpeas	:	33.6
+Cooked Spinach	:	30.4
+Cooked Sweet Peppers	:	19.04
+Cooked Tomatoes	:	21.6
+Cooked Turnip	:	25.3
+Cool Whip	:	59.625
+Cordial	:	106.2
+Corn Chips	:	237.16
+Corn Dog	:	279.84
+Corn Flakes	:	75.81
+Corn Fritter	:	201.695
+Corn On The Cob	:	121.98
+Corn Pops Cereal	:	106.4
+Corn Pudding	:	128.4
+Corn Relish	:	50.8375
+Corn Tortilla	:	53.28
+Corn Tortilla	:	23.754
+Cornbread	:	137.25
+Cornbread Stuffing	:	179
+Corned Beef Hash	:	180.4
+Cottage Cheese	:	108.15
+Couscous	:	87
+Crab Cake	:	105.84
+Cranberry Juice	:	116.38
+Cranberry Sauce	:	86.07
+Cream Cheese	:	34.9
+Cream Cheese Dip	:	106.2
+Cream Of Broccoli Soup	:	206.19
+Cream Of Chicken Soup	:	117.12
+Cream Of Mushroom Soup	:	190.96
+Cream Of Potato Soup	:	136.4
+Cream Of Tomato Soup	:	146.32
+Cream Of Wheat	:	55.22
+Cream Puff	:	267.24
+Cream Style Corn	:	92.16
+Creamed Spinach	:	78
+Creamy Ranch	:	213.84
+Croissant	:	170.52
+Croutons	:	46.5
+Crystal Lite	:	45.6
+Cucumber	:	0.84
+Danish Pastry	:	94.72
+Dark Chocolate Candy Bar	:	142.6625
+Deli Chicken	:	42.525
+Deli Ham	:	36.68
+Deli Sliced Chicken Breast	:	42.12
+Deli Sliced Roast Beef	:	123.9
+Deli Sliced Turkey	:	29.484
+Dessert Wine	:	164.8
+Deviled Egg	:	62.31
+Diet High-Fiber Bread	:	47.61
+Dill Pickle	:	11.7
+Double Cheeseburger	:	620.48
+Double Hamburger	:	383.76
+Dried Fruit	:	85.68
+Dried Tomatoes	:	34.83
+Dry Beans	:	110.25
+Dry Blackeye Peas	:	97.175
+Dry Milk Powder	:	109.8
+Duck Sauce	:	42.3
+Egg & Sausage On Biscuit	:	565.25
+Egg Beaters	:	30
+Egg Drop Soup	:	73.2
+Egg Noodles	:	302.94
+Egg Salad	:	235.32
+Egg White	:	21.19
+Eggplant Parmesan	:	70.4
+Enchilada Sauce	:	79.375
+English Muffin	:	129.34
+English Muffin	:	136.3
+Fat Free Milk	:	83.3
+Feta Cheese	:	99
+Fiber One	:	118.2
+Fig	:	123.8775
+Fitness Water	:	25
+Flavored Soymilk	:	117.6
+Flavored Yogurt	:	24.11875
+Flax Seed	:	45
+Flounder	:	150.822
+Flour Tortilla	:	165.75
+Fortune Cookie	:	30.24
+French Bread	:	87.68
+French Dressing	:	201.08
+French Fries	:	99.5
+French Onion Soup	:	57.84
+French Toast	:	177.39
+French Toast Sticks	:	385.84
+Fried Beef Liver	:	147.9
+Fried Breaded Fish Fillet	:	37.57
+Fried Calamari	:	73.875
+Fried Catfish	:	275.562
+Fried Cheese Sticks	:	502.92
+Fried Chicken	:	249.4
+Fried Chicken Fillet Sandwich	:	322.56
+Fried Chicken Frozen Meal	:	1024.92
+Fried Chicken Liver	:	58.52
+Fried Clams	:	111.18
+Fried Cod	:	190.3
+Fried Egg	:	89.24
+Fried Green Tomatoes	:	176.4
+Fried Okra	:	86.94
+Fried Oysters	:	55.38
+Fried Plantain	:	249.48
+Fried Pork Chop	:	225.99
+Fried Pork Rinds	:	174.4
+Fried Rice	:	166.32
+Fried Scallops	:	246.078
+Fried Shrimp	:	147
+Fried Steak	:	211.6
+Fried Tofu	:	35.23
+Fried Whiting	:	190.53
+Fried Wonton	:	53.96
+Froot Loops	:	106.11
+Frosted Flakes	:	117.44
+Frosted Mini-Wheats	:	204
+Frosted Sweet Roll	:	189
+Frozen Fruit Juice Bar	:	60.68
+Frozen Yogurt	:	214
+Fruit Blintz	:	123.2
+Fruit Bread	:	132.43
+Fruit Cocktail	:	68.97
+Fruit Drink	:	238.08
+Fruit Ice	:	123.52
+Fruit Roll-Up	:	77.91
+Fruit Salad	:	48.125
+Fruit Shortcake	:	211.22
+Fruit Smoothie	:	326.12
+Fruit Soup	:	176.66
+Fruit Topping	:	215.9
+Fruit Yogurt	:	28.9
+Fruity Pebbles	:	144.36
+Fudge Sauce	:	294.1
+Garlic	:	4.47
+Garlic Bread	:	52.8
+Gatorade	:	60
+Gefilte Fish	:	46.33
+General Tso Chicken	:	148.19
+Gin	:	110.46
+Glazed Carrots	:	106.875
+Golden Grahams	:	148.8
+Graham Cracker	:	59.22
+Granola Bar	:	129.92
+Grapefruit	:	40.96
+Grapefruit Juice	:	76.2
+Grape-Nuts	:	97.8275
+Grapes	:	55.2
+Green Olives	:	53.2875
+Green Tomato-Chile Sauce	:	11.1
+Greens	:	33.975
+Grilled Cheese Sandwich	:	290
+Grilled Pork Chop	:	272.16
+Grilled Steak	:	516.12
+Grits	:	55.66
+Ground Beef	:	236.72
+Ground Turkey	:	139.8
+Guacamole	:	91.4525
+Guava	:	42.075
+Gumbo	:	192.76
+Half & Half	:	19.5
+Ham Salad Spread	:	273.24
+Ham Sandwich	:	271.04
+Hamburger	:	269.7
+Hard Boiled Egg	:	77
+Hard Candy	:	20.094
+Hard Pretzels	:	38.1
+Hash Browns	:	143.22
+Hollandaise Sauce	:	67.137
+Home Fries	:	179.45
+Honey	:	63.84
+Honey Bunches Of Oats	:	157.6
+Honey Nut Cheerios	:	111.9
+Honey Smacks	:	150.93
+Honeycomb	:	86.9
+Honeydew Melon	:	90
+Horseradish	:	7.2
+Horseradish Sauce	:	117.04
+Hot & Sour Soup	:	161.04
+Hot Dog	:	174.99
+Hummus	:	26.55
+Hush Puppy	:	74.14
+Ice Cream	:	267.33
+Ice Cream Bar	:	169.12
+Ice Cream Cake	:	91.12
+Ice Cream Cone	:	40.2
+Ice Cream Sandwich	:	143.37
+Imitation Crabmeat	:	71.82
+Instant Cocoa	:	113.3
+Italian Dressing	:	20.68
+Italian Dressing	:	42.777
+Jalapeno	:	18.9
+Jam Or Preserves	:	36.4
+Jambalaya	:	392.84
+Jello	:	61.38
+Jelly	:	50.54
+Jelly Doughnut	:	221
+Kashi	:	87.6
+Ketchup	:	14.25
+Kim Chee	:	7.875
+Kiwi	:	46.36
+Kix	:	82.94
+Krackel Bar	:	69.44
+Kung Pao Chicken	:	217.08
+Lamb Chop	:	243.81
+Latte	:	107.1
+Lemon Chicken	:	335.16
+Lemon Juice	:	11.75
+Lemon Meringue Pie	:	367.16
+Lemonade	:	99.2
+Lemon-Butter Sauce	:	428.64
+Lentil Soup	:	181.04
+Lentils	:	109.825
+Lettuce	:	0.8
+Life Cereal	:	165
+Lite Beer	:	134.4
+Liver And Onions	:	177.32
+Lo Mein	:	234
+Lobster Bisque	:	248
+Low Fat Bologna	:	64.4
+Low Fat Cheddar	:	48
+Low Fat Cream Cheese	:	34.65
+Low Fat Ice Cream	:	228.79
+Low Fat Swiss	:	27
+Lucky Charms	:	114
+M&M'S Candies	:	219.3
+M&M'S Candies With Peanuts	:	242.52
+Macadamia Nuts	:	202.986
+Macaroni And Cheese	:	197.685
+Macaroni Salad	:	169.92
+Maki Sushi	:	30.42
+Malted Milk	:	173.9
+Mandarin Oranges	:	76.86
+Mango	:	67.275
+Manhattan	:	263.32
+Maraschino Cherries	:	66.4125
+Margarita	:	270.32
+Marshmallow Rice Krispies Bar	:	112.8
+Marshmallow Topping	:	79.695
+Marshmallows	:	22.896
+Martini	:	259.84
+Mashed Potatoes	:	115.5
+Mashed Sweet Potato	:	107.445
+Matzo	:	110.6
+Matzo Ball	:	47.95
+Matzo Ball Soup	:	118.09
+Matzo Pancake	:	53.55
+Mayo	:	53.76
+Mayonnaise	:	98.946
+Meat Lasagna	:	390
+Meat Ravioli	:	27.39
+Meatball	:	85.68
+Meatball Sub	:	611.04
+Meatloaf	:	220.32
+Melba Toast	:	11.7
+Mexican Beef Vegetable Soup	:	143.4
+Mexican Chicken Vegetable Soup	:	181.5
+Milk Chocolate Bar	:	331.7
+Milk Chocolate Bar With Almonds	:	215.66
+Milk Gravy	:	88.125
+Milkshake	:	393.37
+Milky Way	:	228.42
+Minestrone Soup	:	84.35
+Miracle Whip	:	46.8
+Miso Soup	:	84
+Mixed Nuts	:	175
+Mixed Salad Greens	:	8.8
+Mole Poblana Sauce	:	78.175
+Moon Pie	:	164.19
+Mozzarella Cheese	:	84.56
+Multigrain Bread	:	57.5
+Mung Bean Noodles	:	159.6
+Mushroom Gravy	:	16.065
+Mushrooms	:	1.32
+Mustard	:	3.3
+Nectarine	:	4.972
+New England Clam Chowder	:	148.8
+Nigiri Sushi	:	36.4
+Noodle Pudding	:	148.32
+Nut Topping	:	367.36
+Nutella	:	83.855
+Oatmeal	:	132.86
+Oatmeal Raisin Cookie	:	171
+Onion	:	5.88
+Onion Rings	:	54.9
+Orange	:	61.57
+Orange Juice	:	52.08
+Oreos	:	46
+Pancakes	:	59.54
+Papaya	:	59.28
+Parmesan Cheese	:	21.55
+Parsley	:	0.18
+Pasta Salad	:	116.82
+Pastrami	:	97.72
+Pea Salad	:	250.38
+Peach	:	52.92
+Peach Cobbler	:	209
+Peach Nectar	:	134.46
+Peanut Brittle	:	62.92
+Peanut Butter	:	95.84
+Peanut Butter & Jelly Spread	:	65.44
+Peanut Butter Cookie	:	119.25
+Peanut Butter Cups	:	36.05
+Peanut Butter Sandwich Cracker	:	11.856
+Peanut Sauce	:	44.1
+Peanuts	:	169.8165
+Pear	:	96.28
+Pear	:	47.85
+Peas	:	38.4
+Pecan Pie	:	456
+Pecans	:	186.57
+Pedialyte	:	25
+Pepperoni	:	25.63
+Pepperpot Soup	:	103.63
+Perch	:	150.822
+Persimmons	:	117.6
+Pesto Sauce	:	82.44133
+Philly Cheese Steak	:	485.52
+Pickle Relish	:	79.625
+Pickled Beets	:	26.6175
+Pig In A Blanket	:	275.4
+Pina Colada	:	417.6
+Pine Nuts	:	57.878
+Pineapple	:	37.2
+Pineapple Juice	:	140
+Pistachios	:	82.36
+Pita Bread	:	233.75
+Pizza Rolls	:	42
+Plain Danish Pastry	:	141.05
+Plain Muffin	:	344.65
+Plain Yogurt	:	138.47
+Plantain	:	136.88
+Plantain Soup	:	98
+Plum	:	30.36
+Polish Sausage	:	234.05
+Pomegranate	:	52.36
+Pop Tart	:	204.36
+Popcorn	:	55
+Popsicle	:	23.76
+Pork & Beans	:	123.97
+Pork Spareribs	:	138.25
+Pot Pie	:	488.05
+Potato Chips	:	94.2
+Potato Pancake	:	69.93
+Potato Pudding	:	143.64
+Potato Salad	:	129.31
+Potato Sticks	:	146.16
+Pound Cake	:	350.35
+Powdered Sugar	:	9.725
+Pozole	:	195.16
+Pringles	:	239.94
+Protein Powder	:	37.293
+Prune Juice	:	181.76
+Prunes	:	20.16
+Pudding	:	81.25
+Pumpkin Pie	:	323.4
+Quiche	:	568.32
+Radish	:	0.16
+Raised Doughnut	:	52.39
+Raisin Bagel	:	287.7
+Raisin Bran	:	194.59
+Raisin Bread	:	71.24
+Raisins	:	27
+Ramen Noodle Soup	:	170.43
+Ranch Dressing	:	47.08
+Raspberries	:	31.98
+Refried Beans	:	182.16
+Refrigerated Biscuit	:	65.74
+Rice	:	139.05
+Rice And Beans	:	195.98
+Rice Chex	:	124.41
+Rice Krispies	:	90
+Ricotta Cheese	:	95.94
+Roast Beef	:	55.86
+Roast Beef Sandwich	:	368.97
+Roast Pork	:	131.04
+Roast Pork Tenderloin	:	195.048
+Roasted Chestnuts	:	69.4575
+Roasted Cornish Game Hen	:	284.9
+Roasted Duck	:	184.8
+Roasted Potatoes	:	83.57
+Roasted Turkey	:	189.28
+Roasted Veal	:	96.6
+Roasted Venison	:	215.46
+Romaine Lettuce	:	2
+Rum	:	97.02
+Rum & Coke	:	273.6
+Rum Dessert Sauce	:	95.04
+Rye Bread	:	67.34
+Salisbury Steak	:	218.01
+Salmon	:	242.82
+Salsa	:	17.36
+Saltine Cracker	:	13.02
+Sangria	:	164.16
+Sauerkraut	:	13.49
+Sausage Biscuit	:	222.87
+Sausage Gravy	:	187.2
+Scalloped Potatoes	:	108.48
+Scallops	:	149.688
+Scrambled Egg	:	78
+Seafood Salad	:	163.28
+Sesame Seeds	:	53
+Sherbet	:	95.04
+Shortbread Cookie	:	105.42
+Shredded Coconut	:	134.379
+Shredded Wheat	:	170
+Shrimp	:	61.6
+Shrimp Fried Rice	:	161.37
+Shrimp Lo Mein	:	236
+Slurpee	:	212.48
+Smoked Ham	:	65.94
+Smoked Salmon	:	33.1695
+Snack Mix	:	47.475
+Snickers Candy Bar	:	273.03
+Soft Boiled Egg	:	7.7
+"Soft Drink, Regular"	:	154.98
+Soft Pretzel	:	388.7
+Soft Serve Ice Cream	:	347.73
+Sorbet	:	82
+Sour Cream	:	64.2
+Sour Cream Dip	:	133.65
+Sourdough Bread	:	95.9
+Soy Burger	:	125.3
+Soy Nuts	:	109.5075
+Soy Sauce	:	4.717
+Soymilk	:	98
+Spaghetti Noodles	:	196
+Spaghetti Sauce	:	51.25
+Spaghetti With Meat Sauce	:	349.68
+Spaghetti With Tomato Sauce	:	250.48
+Spanish Rice	:	105.705
+Special K	:	117.49
+Spinach	:	6.9
+Spinach Lasagna	:	279.21
+Spinach Quiche	:	270.07
+Split Pea Soup	:	195
+Split Peas	:	114.66
+Steak Sandwich	:	343.64
+Steak Sauce	:	38.125
+Steamed Clams	:	69
+Steamed Crab	:	120.19
+Steamed Crayfish	:	45.36
+Steamed Dumpling	:	41.44
+Steamed Lobster	:	109.998
+Steamed Shrimp	:	55.2
+Stew Vegetables	:	57.75
+Stewed Tomatoes	:	33.15
+Stick Margarine	:	35.25
+Stir-Fried Beef	:	223.51
+Stir-Fried Chicken	:	89.91
+Stir-Fried Pork	:	245.21
+Stir-Fried Shrimp	:	79.38
+Strawberries	:	23.04
+Stuffed Baked Potato	:	194.6
+Stuffed Cabbage Rolls	:	117.42
+Stuffed Mushrooms	:	67.44
+Stuffed Pepper	:	208.6
+Sub Roll	:	181.35
+Sugar Cookie	:	76
+Sugar-Free Jello	:	3.96
+Sugar-Free Popsicle	:	16.72
+Sunflower Seeds	:	65.55
+Sweet & Sour Chicken	:	356
+Sweet & Sour Pork	:	115.26
+Sweet & Sour Soup	:	73.2
+Sweet And Sour Sauce	:	28.2
+Sweet Cherries	:	36.855
+Sweet Pickle	:	35.1
+Sweetened Condensed Milk	:	245.565
+Swiss Cheese	:	68.51
+Syrup	:	53
+Tabasco Sauce	:	1.86
+Table Wine	:	79.31
+Taco Salad	:	366.56
+Taco Shell	:	62.244
+Taffy	:	37.318
+Tamale	:	133
+Tangerine	:	42.9
+Taquitoes	:	190.8
+Taro	:	106
+Tartar Sauce	:	74.304
+Tator Tots	:	142.08
+Tea	:	52.5
+Teriyaki Sauce	:	53.55
+Teriyaki Steak	:	226.92
+Thin Mint Cookie	:	33.512
+Thousand Island Dressing	:	57.72
+Tofu	:	10.736
+Tofutti Tofu Dessert	:	180.4
+Tomato	:	3.06
+Tomato Cucumber Salad	:	92.22
+Tomato Juice	:	41.31
+Tomato Sauce	:	39.2
+Tomato Soup	:	85.4
+Tonic Water	:	124.44
+Tootsie Roll	:	25.87
+Tortilla Chips	:	87.15
+Tortilla Soup	:	237.6
+Tossed Salad	:	11.68
+Total Cereal	:	106.92
+Trail Mix	:	176.05
+Triscuits	:	17.72
+Trix Cereal	:	117.3
+Trout	:	306.44
+Tub Margarine	:	33.55176
+Tub Spread	:	25.05789
+Tuna	:	227.97
+Tuna Egg Salad	:	203.84
+Tuna Noodle Casserole	:	423.36
+Tuna Salad	:	191.36
+Turkey Bacon	:	42.02
+Turkey Lunch Meat	:	28.56
+Turkey Sausage	:	58.52
+Turkey With Dressing	:	483.6
+Twix Cookie Bars	:	474.05
+Upside Down Cake	:	275.2
+V-8 Juice	:	43.56
+Vanilla Dessert Sauce	:	23.76
+Vanilla Sandwich Cookie	:	53.13
+Vanilla Wafer	:	17.64
+Veal Cutlet	:	205.254
+Veal Steak	:	139.37
+Vegemite	:	9.48
+Vegetable Beef Soup	:	78
+Vegetable Broth	:	16.8
+Vegetable Combo	:	23.495
+Vegetable Oil	:	120.224
+Vegetable Pizza	:	301.03125
+Vegetable Rice Soup	:	106.04
+Vegetable Shortening	:	37.34016
+Vegetable Soup	:	81.94
+Vegetable Tempura	:	11.27
+Vegetable-Pasta Combo	:	279.76
+Vegetarian Chili	:	135.89
+Vegetarian Meatloaf	:	110.32
+Veggie Burger	:	127.09
+Vienna Sausage	:	44.64
+Vinegar	:	2.016
+Vodka	:	128.436
+Waffle	:	198
+Waldorf Salad	:	121.245
+Walnuts	:	163.5
+Water	:	0
+Water Chestnut	:	39.5
+Watermelon	:	22.8
+Wheat Bagel	:	197.34
+Wheat Bran	:	31.32
+Wheat Bread	:	52
+Wheat Cracker	:	76
+Wheat Roll	:	125.99
+Wheaties Cereal	:	106.5
+Whipped Butter	:	67.398
+Whipped Cream	:	103.53
+Whiskey	:	140
+White Bread	:	69.16
+White Cake With Icing	:	415.29
+White Icing	:	80.396
+White Rice	:	118.175
+White Roll	:	78.12
+White Sauce	:	90.625
+White Sugar	:	23.22
+Whole Milk	:	146.4
+Whole Wheat English Muffin	:	117.74
+Whole Wheat Pancakes	:	183.2
+Whole Wheat Pasta	:	172.2
+Whole Wheat Tortilla	:	105.2
+Wild Rice	:	65
+Wine Cooler	:	127.2
+Winter Squash	:	37.925
+Won Ton Soup	:	183.16
+Worcestershire Sauce	:	3.7587
+Wrap Sandwich	:	472.29
+Yellow Cake	:	400.03
+Zucchini	:	18
+Zucchini Bread	:	149.6
